@@ -12,10 +12,10 @@ while cultivating your garden chop, dig, and fight pests to gain better ingreade
 ## Your neighbors: Thier a friendly sort
 
 **Mr.Frog** 
-Your semi aquatic neighbor by the pond he loves to buy and sell items <sub>of no value</sub> that can help you gain better yeilds in your crops ~~how does that broken hose make the tomatos grow faster~~ 
+:Your semi aquatic neighbor by the pond he loves to buy and sell items <sub>of no value</sub> that can help you gain better yeilds in your crops ~~how does that broken hose make the tomatos grow faster~~ 
 
 **Mrs.Fox** 
-sShe lives up thhe mountin in her orchard you can always count on her to get you the fruits you cant grow. *she would love it if you called her grandma fox*
+:She lives up thhe mountin in her orchard you can always count on her to get you the fruits you cant grow. *she would love it if you called her grandma fox*
 
 ## **Features**:<sub>the sky is the limit</sub>
 
