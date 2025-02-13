@@ -17,7 +17,7 @@ While cultivating your garden chop, dig, and fight pests to gain better ingreade
 **Mrs.Fox** 
 :She lives up the clifs in her orchard you can always count on her to get you the fruits you cant grow. *she would love it if you called her grandma fox*
 
-## **Features**:<sub>the sky is the limit</sub>
+## **Features**:   <sub>the sky is the limit</sub>
 
 with hand traking softwear you can use any of the mechanics given to you or you can use your bare hands to do everything from grabing the fruit off the vine to diging a hole. The options are endless. This game will only be a demo of what is to come.
 
