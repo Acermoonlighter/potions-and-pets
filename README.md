@@ -4,10 +4,10 @@
 
 Potions and Pets is a cosy VR game that will combine the essences of most cosy games with michanics similar to the cooking mama franchise.
 
-## Game play                                                                                             <img src="./carrotcopy.png" width=10% height=10%>    
+## Game play                                                                                             
 
 Farm, cook and brew your way into your favorite animal sanctuary. Farm for ingreadeants to make amazing meals to impress npcs to get special potion ingreadeants to summon you new pets/best freinds.
-
+<img src="./carrotcopy.png" width=10% height=10%>  
 
 While cultivating your garden chop, dig, and fight pests to gain better ingreadeants for food and potions. the better the quality of ingreadents the more mythical ingreadents you will obtain to make better potions. When you obtain a mythical pet from a potion there is a chance that they will bring a Legendary Peach Pit with them in the summonig. plant this seed to start a special quest to get a new neighbor in the mountins!
 
