@@ -1,4 +1,4 @@
-# **Potions & Pets**: A Magical Meal
+# **Potions & Pets*: A Magical Meal
 
 ## Summery
 
