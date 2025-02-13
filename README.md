@@ -6,7 +6,7 @@ Potions and Pets is a cosy VR game that will combine the essences of most cosy g
 
 ## Game play
 
-<img src="./carrotcopy.png" width=25% height=25%>       
+<img src="./carrotcopy.png" width=10% height=10%>       
 
 Farm, cook and brew your way into your favorite animal sanctuary. Farm for ingreadeants to make amazing meals to impress npcs to get special potion ingreadeants to summon you new pets/best freinds.
 
