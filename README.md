@@ -1,1 +1,1 @@
-# cafe_logs
+# potions-and-pets
