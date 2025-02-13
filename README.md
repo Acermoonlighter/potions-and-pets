@@ -1,6 +1,6 @@
-# Potions & Pets: A Magical Meal
+# **Potions & Pets**: A Magical Meal
 
-## summery
+## Summery
 
 Potions and Pets is a cosy VR game that will combine the essences of most cosy games with michanics similar to the cooking mama franchise.
 
