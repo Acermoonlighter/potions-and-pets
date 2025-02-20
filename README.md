@@ -12,6 +12,8 @@ Farm, cook and brew your way into your favorite animal sanctuary. Farm for ingre
 
 While cultivating your garden chop, dig, and fight pests to gain better ingreadeants for food and potions. the better the quality of ingreadents the more mythical ingreadents you will obtain to make better potions. When you obtain a mythical pet from a potion there is a chance that they will bring a Legendary Peach Pit with them in the summonig. plant this seed to start a special quest to get a new neighbor in the mountins!
 
+<img src="./a_drawn_out_list_of_assets.png" width=25% height=25%>
+
 ## Your neighbors: _They're a friendly sort_
 
 **Mr.Frog** 
